@@ -1,0 +1,5 @@
+telebot
+os
+sqlite3
+google.generativeai
+datetime
